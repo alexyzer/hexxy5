@@ -1,0 +1,13 @@
+name = "Anvil Player Heads"
+filename = "anvil_player_heads-1.0.0+1.20.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BcTWkiah/versions/OtY3Qmuy/anvil_player_heads-1.0.0%2B1.20.5.jar"
+hash-format = "sha512"
+hash = "a58437893847ae94977c925aeb20d2baf00e7516e9f11371859068d9e72728454aac9ecb8ea95ed59cc17af11038c79bf1efc35218656cc7dbed49a0fca9fb6b"
+
+[update]
+[update.modrinth]
+mod-id = "BcTWkiah"
+version = "OtY3Qmuy"

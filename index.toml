@@ -58,6 +58,10 @@ file = "mods/aeronauticsvoidseas.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/anvil-player-heads.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
